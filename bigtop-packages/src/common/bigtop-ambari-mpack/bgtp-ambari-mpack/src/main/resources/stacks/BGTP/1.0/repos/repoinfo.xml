@@ -23,4 +23,11 @@
       <reponame>BGTP</reponame>
     </repo>
   </os>
+  <os family="rockylinux">
+    <repo>
+      <baseurl>http://repos.bigtop.apache.org/releases/3.2.1/rockylinux/8/$basearch</baseurl>
+      <repoid>BTR8-1.0</repoid>
+      <reponame>BTR8</reponame>
+    </repo>
+  </os>
 </reposinfo>
